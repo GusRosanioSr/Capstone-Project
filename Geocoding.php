@@ -10,4 +10,5 @@
 	
 	// prints our the whole JSON array to a webpage so we can view how the array looks
 	print_r($json_data);
+	echo var_dump($json_data);
 ?>

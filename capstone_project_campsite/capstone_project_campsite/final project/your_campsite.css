@@ -1,0 +1,34 @@
+body {
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+}
+
+#headerWrapper {
+	background-color:white;
+	border-bottom: 3px solid #999999;
+}
+
+.headerText {
+	
+}
+
+#mainWrapper {
+	background-color:#ccff66;
+	border-bottom: 3px solid #999999;
+}
+
+#contentWrapper {
+	background-color: #cc9966;
+}
+
+#weatherWrapper {
+	font-size: medium;
+	background-color: white;
+	float: right;
+}
+
+#youtubeWrapper {
+	border-bottom: 5px solid #999999;
+}
